@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.wt.ass1" elementFormDefault="qualified">
+  <xs:element name="category">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="hiragana"/>
+        <xs:element ref="katakana"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="hiragana">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="symbol name"/>
+        <xs:element ref="alphabet representation"/>
+        <xs:element ref="no of strokes"/>
+        <xs:element ref="order"/>
+        <xs:element ref="example"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="katakana">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="symbol name"/>
+        <xs:element ref="alphabet representation"/>
+        <xs:element ref="no of strokes"/>
+        <xs:element ref="order"/>
+        <xs:element ref="example"/>
+      </xs:sequence>
+      <xs:attribute name="bno" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="symbol name" type="xs:string"/>
+  <xs:element name="alphabet representation" type="xs:string"/>
+  <xs:element name="no of strokes" type="xs:integer"/>
+  <xs:element name="order" type="xs:integer"/>
+  <xs:element name="example" type="xs:string"/>
+  
+</xs:schema>

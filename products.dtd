@@ -1,0 +1,41 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT category (hiragana,katakana)>
+<!ATTLIST category
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT hiragana (symbol name,alphabet representation,no of strokes,order,example)>
+<!ATTLIST hiragana
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+<!ELEMENT katakana (symbol name,alphabet representation,no of strokes,order,example)>
+<!ATTLIST katakana
+  xmlns CDATA #FIXED ''
+  bno NMTOKEN #REQUIRED>
+
+
+<!ELEMENT symbol name (#PCDATA)>
+<!ATTLIST symbol name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT alphabet representation (#PCDATA)>
+<!ATTLIST alphabet representation
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT no of strokes (#PCDATA)>
+<!ATTLIST no of strokes
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT order (#PCDATA)>
+<!ATTLIST order
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT example (#PCDATA)>
+<!ATTLIST example
+  xmlns CDATA #FIXED ''>
+
+
+
+
+

@@ -1,0 +1,87 @@
+{
+   "hiragana": {
+      "@bno": "m1",
+      "symbol name": "a",
+      "alphabet representation": "A",
+      "no of strokes": "2",
+      "order": "1",
+      "example": "anou",  
+   },
+ "hiragana": {
+      "@bno": "m2",
+      "symbol name": "i",
+      "alphabet representation": "E",
+      "no of strokes": "2",
+      "order": "1",
+      "example": "iie",  
+   },
+ "hiragana": {
+      "@bno": "m3",
+      "symbol name": "ka",
+      "alphabet representation": "KAA",
+      "no of strokes": "3",
+      "order": "2",
+      "example": "kanji",  
+   },
+ "hiragana": {
+      "@bno": "m4",
+      "symbol name": "sa",
+      "alphabet representation": "SAA",
+      "no of strokes": "2",
+      "order": "3",
+      "example": "sangha",  
+   },
+ "hiragana": {
+      "@bno": "m5",
+      "symbol name": "ta",
+      "alphabet representation": "THA",
+      "no of strokes": "4",
+      "order": "4",
+      "example": "tachi",  
+   },
+ "katakana": {
+      "@bno": "m1",
+      "symbol name": "chi",
+      "alphabet representation": "CHEE",
+      "no of strokes": "3",
+      "order": "4",
+      "example": "chikara",  
+
+   },
+ "katakana": {
+      "@bno": "m2",
+      "symbol name": "na",
+      "alphabet representation": "NHA",
+      "no of strokes": "3",
+      "order": "5",
+      "example": "nani",  
+
+   },
+ "katakana": {
+      "@bno": "m3",
+      "symbol name": "ha",
+      "alphabet representation": "HA",
+      "no of strokes": "3",
+      "order": "5",
+      "example": "haii",  
+
+   },
+   "katakana": {
+      "@bno": "m4",
+      "symbol name": "ma",
+      "alphabet representation": "MAA",
+      "no of strokes": "4",
+      "order": "6",
+      "example": "matte",  
+
+   },
+ "katakana": {
+      "@bno": "m5",
+      "symbol name": "te",
+      "alphabet representation": "THAE",
+      "no of strokes": "2",
+      "order": "4",
+      "example": "thenkidesune",  
+
+   }
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "products.dtd">
+<category>
+<hiragana bno="m1">
+  <symbolname>a </symbolname>
+  <alphabetrepresentation>A</alphabetrepresentation>
+  <noofstrokes>2</noofstrokes>
+  <order>1 </order>
+  <example>anou</example>
+</hiragana>
+<hiragana bno="m2">
+  <symbolname>i </symbolname>
+  <alphabetrepresentation>E</alphabetrepresentation>
+  <noofstrokes>2</noofstrokes>
+  <order>1 </order>
+  <example>iie</example>
+</hiragana>
+<hiragana bno="m3">
+  <symbolname>ka </symbolname>
+  <alphabetrepresentation>KAA</alphabetrepresentation>
+  <noofstrokes>3</noofstrokes>
+  <order>2 </order>
+  <example>kanji</example>
+</hiragana>
+<hiragana bno="m4">
+  <symbolname>sa </symbolname>
+  <alphabetrepresentation>SAA</alphabetrepresentation>
+  <noofstrokes>2</noofstrokes>
+  <order>3 </order>
+  <example>sanga</example>
+</hiragana>
+<hiragana bno="m5">
+  <symbolname>ta</symbolname>
+  <alphabetrepresentation>THA</alphabetrepresentation>
+  <noofstrokes>4</noofstrokes>
+  <order>4 </order>
+  <example>tachi</example>
+</hiragana>
+
+<katakana bno="m1">
+  <symbolname>chi</symbolname>
+  <alphabetrepresentation>CHEE</alphabetrepresentation>
+  <noofstrokes>3</noofstrokes>
+  <order>4 </order>
+  <example>chikara</example>
+</katakana>
+<katakana bno="m2">
+  <symbolname>na</symbolname>
+  <alphabetrepresentation>NHA</alphabetrepresentation>
+  <noofstrokes>3</noofstrokes>
+  <order>5</order>
+  <example>nani</example>
+</katakana>
+<katakana bno="m3">
+  <symbolname>ha</symbolname>
+  <alphabetrepresentation>HA</alphabetrepresentation>
+  <noofstrokes>3</noofstrokes>
+  <order>5 </order>
+  <example>haii</example>
+</katakana>
+<katakana bno="m4">
+  <symbolname>ma</symbolname>
+  <alphabetrepresentation>MA</alphabetrepresentation>
+  <noofstrokes>4</noofstrokes>
+  <order>6 </order>
+  <example>matte</example>
+</katakana>
+<katakana bno="m5">
+  <symbolname>te</symbolname>
+  <alphabetrepresentation>THAE</alphabetrepresentation>
+  <noofstrokes>2</noofstrokes>
+  <order>4 </order>
+  <example>tenkidesune</example>
+</katakana>
+
+</category>

@@ -1,0 +1,20 @@
+
+category { 
+     color: white; 
+     background-color : #d1fcff; 
+     width: 100%; 
+} 
+ heading { 
+     color: green; 
+background-color :gray; 
+     font-size : 40px; 
+     
+} 
+ heading, symbolname, alphabetrepresentation, noofstrokes, order, example { 
+     display : block; 
+     color: #750005; 
+} 
+ symbolname { 
+     font-size : 25px; 
+     font-weight : bold; 
+} 

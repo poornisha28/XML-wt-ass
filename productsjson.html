@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    .div1{
+      background-color:pink;
+      width: 500px;
+      height: 350px;
+      padding:50px;
+      border: 10px solid black;
+    }
+    body {
+      background-image: url('japan.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    </style>
+  </head>
+<body>
+
+<h1>LEARN JAPANESE</h1><br><br><br>
+<center>
+      <div class="div1">
+        <h2>EXPLORE AND ENHANCE!!</h2><br><br>
+<ul id="demo"></ul>
+<ul id="demo1"></ul>
+<ul id="demo2"></ul>
+<ul id="demo3"></ul>
+<ul id="demo4"></ul>
+<ul id="demo5"></ul>
+</div1>
+</center>
+
+<script>
+var text = '{"category":[' +
+'{"symbol":"a","example":"anou" },' +
+'{"symbol":"i","example":"iie" },' +
+'{"symbol":"ka","example":"kanji" },' +
+'{"symbol":"sa","example":"sangha" },' +
+'{"symbol":"ta","example":"tachi" },' +
+'{"symbol":"te","example":"tenkidesune" }]}';
+
+obj = JSON.parse(text);
+document.getElementById("demo").innerHTML ="<li>"+
+obj.category[0].symbol + " - " + obj.category[0].example +"</li>";
+document.getElementById("demo1").innerHTML ="<li>"+
+obj.category[1].symbol + " - " + obj.category[1].example +"</li>";
+document.getElementById("demo2").innerHTML ="<li>"+
+obj.category[2].symbol + " - " + obj.category[2].example +"</li>";
+document.getElementById("demo3").innerHTML ="<li>"+
+obj.category[3].symbol + " - " + obj.category[3].example +"</li>";
+document.getElementById("demo4").innerHTML ="<li>"+
+obj.category[4].symbol + " - " + obj.category[4].example +"</li>";
+document.getElementById("demo5").innerHTML ="<li>"+
+obj.category[5].symbol + " - " + obj.category[5].example +"</li>";
+</script>
+
+</body>
+</html>

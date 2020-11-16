@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?> 
+<category>
+<heading>Welcome To XML document  </heading> 
+<hiragana bno="m1">
+  <symbolname>SYMBOL NAME: a </symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: A</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 2</noofstrokes>
+  <order>ORDER: 1 </order>
+  <example>EXAMPLE: anou</example>
+</hiragana>
+<hiragana bno="m2">
+  <symbolname>SYMBOL NAME: i </symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: E</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 2</noofstrokes>
+  <order>ORDER: 1 </order>
+  <example>EXAMPLE: iie</example>
+</hiragana>
+<hiragana bno="m3">
+  <symbolname>SYMBOL NAME: ka </symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: KAA</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 3</noofstrokes>
+  <order>ORDER: 2 </order>
+  <example>EXAMPLE: kanji</example>
+</hiragana>
+<hiragana bno="m4">
+  <symbolname>SYMBOL NAME: sa </symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: SAA</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 2</noofstrokes>
+  <order>ORDER: 3 </order>
+  <example>EXAMPLE: sanga</example>
+</hiragana>
+<hiragana bno="m5">
+  <symbolname>SYMBOL NAME: ta</symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: THA</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 4</noofstrokes>
+  <order>ORDER: 4 </order>
+  <example>EXAMPLE: tachi</example>
+</hiragana>
+
+<katakana bno="m1">
+  <symbolname>SYMBOL NAME: chi</symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: CHEE</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 3</noofstrokes>
+  <order>ORDER: 4 </order>
+  <example>EXAMPLE: chikara</example>
+</katakana>
+<katakana bno="m2">
+  <symbolname>SYMBOL NAME: na</symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: NHA</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 3</noofstrokes>
+  <order>ORDER: 5</order>
+  <example>EXAMPLE: nani</example>
+</katakana>
+<katakana bno="m3">
+  <symbolname>SYMBOL NAME: ha</symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: HA</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 3</noofstrokes>
+  <order>ORDER: 5 </order>
+  <example>EXAMPLE: haii</example>
+</katakana>
+<katakana bno="m4">
+  <symbolname>SYMBOL NAME: ma</symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: MA</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 4</noofstrokes>
+  <order>ORDER: 6 </order>
+  <example>EXAMPLE: matte</example>
+</katakana>
+<katakana bno="m5">
+  <symbolname>SYMBOL NAME: te</symbolname>
+  <alphabetrepresentation>ALPHABET REPRESENTATION: THAE</alphabetrepresentation>
+  <noofstrokes>NO OF STROKES: 2</noofstrokes>
+  <order>ORDER: 4 </order>
+  <example>EXAMPLE: tenkidesune</example>
+</katakana>
+
+</category>

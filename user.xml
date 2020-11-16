@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+<customer cid="01">
+  <name>Nicholas</name>
+  <phone> 9845612475 </phone>
+  <location> Brooklyn </location>
+  <email>nickj@gmail.com </email>
+  <learnerlevel> Beginner </learnerlevel>
+</customer>
+<customer cid="02">
+  <name>Jamal bashuan</name>
+  <phone> 93443114816 </phone>
+  <location> Ohio </location>
+  <email> jamal23901@gmail.com </email>
+  <learnerlevel> Intermediate </learnerlevel>
+</customer>
+<customer cid="03">
+  <name>Vladia</name>
+  <phone> 967543823 </phone>
+  <location> France </location>
+  <email> vladiastoickovich@gmail.com </email>
+  <learnerlevel> Advanced </learnerlevel>
+</customer>
+<customer cid="04">
+  <name>Nive</name>
+  <phone> 9845690075 </phone>
+  <location> Tuticorin </location>
+  <email> nivepro@gmail.com </email>
+  <learnerlevel> Beginner </learnerlevel>
+</customer>
+<customer cid="05">
+  <name>Mohan samuel</name>
+  <phone> 9435612475 </phone>
+  <location> Chennai </location>
+  <email> mohanmohan234@gmail.com </email>
+  <learnerlevel> Beginner </learnerlevel>
+</customer>
+<customer cid="06">
+  <name>Lucky</name>
+  <phone> +108766475 </phone>
+  <location>Arizona </location>
+  <email> agi108@gmail.com </email>
+  <learnerlevel>Intermediate </learnerlevel>
+</customer>
+<customer cid="07">
+  <name>Lu song</name>
+  <phone> 98467612475 </phone>
+  <location>Taipei </location>
+  <email> chikarawasong@gmail.com </email>
+  <learnerlevel> Advanced</learnerlevel>
+</customer>
+</details>
